@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FullStack API",
+    "\\FullStack API\\FullStack API",
+    "\\FullStack API\\FullStack API\\Properties",
+    "\\FullStack API\\FullStack API\\wwwroot"
   ],
+  "SelectedNode": "\\FullStack API\\FullStack API\\Controllers",
   "PreviewInSolutionExplorer": false
 }
