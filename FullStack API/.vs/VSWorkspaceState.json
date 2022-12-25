@@ -3,9 +3,11 @@
     "",
     "\\FullStack API",
     "\\FullStack API\\FullStack API",
-    "\\FullStack API\\FullStack API\\Properties",
-    "\\FullStack API\\FullStack API\\wwwroot"
+    "\\FullStack API\\FullStack API\\Controllers",
+    "\\FullStack API\\FullStack API\\Data",
+    "\\FullStack API\\FullStack API\\Migrations",
+    "\\FullStack API\\FullStack API\\Models"
   ],
-  "SelectedNode": "\\FullStack API\\FullStack API\\Controllers",
+  "SelectedNode": "\\FullStack API\\FullStack API.sln",
   "PreviewInSolutionExplorer": false
 }
