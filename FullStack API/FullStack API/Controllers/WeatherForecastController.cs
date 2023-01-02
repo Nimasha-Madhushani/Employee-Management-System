@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace FullStack_APT.Controllers
+namespace FullStack_API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

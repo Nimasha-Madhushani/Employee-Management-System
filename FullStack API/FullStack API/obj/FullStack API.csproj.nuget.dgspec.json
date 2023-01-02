@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\L3\\L3S2\\CSharp\\EmployeeMAnagementSystem\\Employee-Management-System\\FullStack APT\\FullStack APT\\FullStack API.csproj": {}
+    "E:\\L3\\L3S2\\CSharp\\EmployeeMAnagementSystem\\Employee-Management-System\\FullStack API\\FullStack API\\FullStack API.csproj": {}
   },
   "projects": {
-    "E:\\L3\\L3S2\\CSharp\\EmployeeMAnagementSystem\\Employee-Management-System\\FullStack APT\\FullStack APT\\FullStack API.csproj": {
+    "E:\\L3\\L3S2\\CSharp\\EmployeeMAnagementSystem\\Employee-Management-System\\FullStack API\\FullStack API\\FullStack API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\L3\\L3S2\\CSharp\\EmployeeMAnagementSystem\\Employee-Management-System\\FullStack APT\\FullStack APT\\FullStack API.csproj",
+        "projectUniqueName": "E:\\L3\\L3S2\\CSharp\\EmployeeMAnagementSystem\\Employee-Management-System\\FullStack API\\FullStack API\\FullStack API.csproj",
         "projectName": "FullStack API",
-        "projectPath": "E:\\L3\\L3S2\\CSharp\\EmployeeMAnagementSystem\\Employee-Management-System\\FullStack APT\\FullStack APT\\FullStack API.csproj",
+        "projectPath": "E:\\L3\\L3S2\\CSharp\\EmployeeMAnagementSystem\\Employee-Management-System\\FullStack API\\FullStack API\\FullStack API.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "E:\\L3\\L3S2\\CSharp\\EmployeeMAnagementSystem\\Employee-Management-System\\FullStack APT\\FullStack APT\\obj\\",
+        "outputPath": "E:\\L3\\L3S2\\CSharp\\EmployeeMAnagementSystem\\Employee-Management-System\\FullStack API\\FullStack API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,7 +56,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.2.3, )"
             }
           },
           "imports": [

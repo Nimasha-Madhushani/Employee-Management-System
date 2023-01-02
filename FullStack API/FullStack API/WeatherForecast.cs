@@ -1,4 +1,4 @@
-namespace FullStack_APT
+namespace FullStack_API
 {
     public class WeatherForecast
     {
