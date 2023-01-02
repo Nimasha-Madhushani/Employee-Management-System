@@ -1,4 +1,4 @@
-﻿using FullStack_API.Models;
+﻿using FullStack_API.Models; 
 using Microsoft.EntityFrameworkCore;
 
 namespace FullStack_API.Data
@@ -13,4 +13,4 @@ namespace FullStack_API.Data
             public DbSet<Employee> Employees { get; set; }
         }
     }
-}
+
