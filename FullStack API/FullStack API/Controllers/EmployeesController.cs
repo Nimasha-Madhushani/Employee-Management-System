@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 namespace FullStack_API.Controllers
 {
     [ApiController]
-    [Route("/api/employees")]
+    [Route("/api/[controller]")]
     public class EmployeeController : Controller
     {
 
@@ -13,6 +13,7 @@ namespace FullStack_API.Controllers
         public EmployeeController(FullStackDbContext fullStackDbContext)
         {
             _fullStackDbContext = fullStackDbContext;
+            //this.fullStackDbContext = fullStackDbContext;(inplace of _ can use this)
         }
         [HttpGet]
 
