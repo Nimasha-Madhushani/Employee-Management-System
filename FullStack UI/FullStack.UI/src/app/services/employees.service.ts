@@ -5,5 +5,9 @@ import { Injectable } from '@angular/core';
 })
 export class EmployeesService {
 
-  constructor() { }
+  constructor(private http:HttpClient) { }
+
+  getAllEmployees(){
+
+  }
 }
