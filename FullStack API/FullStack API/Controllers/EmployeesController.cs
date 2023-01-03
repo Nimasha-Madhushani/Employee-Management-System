@@ -6,7 +6,7 @@ using FullStack_API.Models;
 namespace FullStack_API.Controllers
 {
     [ApiController]
-    [Route("/api/[controller]")]
+    [Route("/api/employees")]
     public class EmployeeController : Controller
     {
 
