@@ -17,4 +17,7 @@ export class AddEmployeeComponent implements OnInit {
   };
   constructor() {}
   ngOnInit(): void {}
+  addEmployee(){
+    console.log(this.addEmployeeRequest)
+  }
 }
