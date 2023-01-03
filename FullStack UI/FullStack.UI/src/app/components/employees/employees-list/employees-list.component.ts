@@ -39,7 +39,8 @@ export class EmployeesListComponent implements OnInit {
     // this.employees.push()
     this.employeesService.getAllEmployees().subscribe({
       next: (employees) => {
-        console.log(employees);
+        this.employees=employees;
+        // console.log(employees);
       },
       error: (response) => {
         console.log(response);
