@@ -6,11 +6,14 @@ import { RouterModule } from '@angular/router';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { EmployeesListComponent } from './components/employees/employees-list/employees-list.component';
+import { AddEmployeeComponent } from './components/employees/add-employee/add-employee.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
     AppComponent,
     EmployeesListComponent,
+    AddEmployeeComponent,
   
   
 
@@ -21,6 +24,7 @@ import { EmployeesListComponent } from './components/employees/employees-list/em
     HttpClientModule,
     RouterModule,
     CommonModule,
+    FormsModule
     
   ],
   exports: [ RouterModule ],
