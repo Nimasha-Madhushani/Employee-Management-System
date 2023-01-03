@@ -6,7 +6,7 @@ import { RouterModule } from '@angular/router';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { EmployeesListComponent } from './components/employees/employees-list/employees-list.component';
-import { AddEmployeeComponent } from './components/add-employee/add-employee.component';
+import { AddEmployeeComponent } from './components/employees/add-employee/add-employee.component';
 
 @NgModule({
   declarations: [
